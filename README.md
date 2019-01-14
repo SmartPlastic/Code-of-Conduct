@@ -9,3 +9,4 @@ The Code of Conduct is in charge for all HauserLenz, and therefore all SmartPlas
 *I agree to what is stated above:*
 
 - Thomas Lenz, @tommylenz, 07.01.2019
+- Florian Hauser, @FloHauser 14.01.2019
